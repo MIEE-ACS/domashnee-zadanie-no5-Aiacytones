@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace hw6
+namespace Dz5.Ryabikov.UTS_22
 {
     class Tovar
     {
